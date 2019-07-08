@@ -1,0 +1,22 @@
+
+{
+  "name": "protractorautomation",
+  "version": "1.0.0",
+  "description": "Protractor Typescript automation framework",
+  "main": "conf.ts",
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pretest": "npm run tsc",
+    "test": "protractor conf.js",
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "Protractor",
+    "Typescript"
+  ],
+  "author": "Abhinav"
+}
