@@ -1,6 +1,6 @@
 // Author - Abhinav
 
-This project is an assigment to test out functionalities of bigbasket.
+This project tests out functionalities of bigbasket.
 This framework is written in jasmine with protractor.
 
 Framework requirements:
